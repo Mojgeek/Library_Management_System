@@ -1,0 +1,89 @@
+Book
+The Floating Opera
+21
+Available
+John Barth
+
+Book
+Seize The Day
+78
+Unavailable
+John Barth
+
+Book
+The power of Now
+56
+Unavailable
+Eckhart Tolle
+
+Book
+Anna Karenina
+76
+Available
+Leo Tolstoy
+
+Book
+The Master and the Margaritha
+52
+Available
+Mikhail Bulgakov
+
+Book
+Oblomov
+87
+Unavailble
+Ivan Goncharov
+
+Journal
+Nature
+1
+Available
+42
+
+Journal
+IEEE
+4
+Unavailable
+52
+
+Journal
+ACM
+5
+Available
+12
+
+Journal
+Art of Music
+7
+Available
+36
+
+Journal
+NASA daily
+8
+Unavailabe
+128
+
+Magazine
+New York
+10
+Available
+567
+
+Magazine
+New Yorker
+12
+Unavailable
+123
+
+Magazine
+Cosmopolitan
+12
+Available
+43
+
+Magazine
+Hufftington Post
+24
+Unavailable
+15678
